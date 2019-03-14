@@ -67,6 +67,5 @@ public class Cipmyt {
         System.out.println("jpucn");
         System.out.println("jxrqt");
         System.out.println("tgelt");
-        System.out.println("eebda");
     }
 }
