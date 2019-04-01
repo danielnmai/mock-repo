@@ -24,6 +24,5 @@ public class Cipmyt {
         System.out.println("phlax");
         System.out.println("whgci");
         System.out.println("jopal");
-        System.out.println("dmmhf");
     }
 }
