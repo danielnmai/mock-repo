@@ -27,6 +27,5 @@ public class Cipmyt {
         System.out.println("pmosx");
         System.out.println("xvmtr");
         System.out.println("klpcn");
-        System.out.println("uekmw");
     }
 }
