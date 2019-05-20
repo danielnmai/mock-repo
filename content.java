@@ -70,6 +70,5 @@ public class Cipmyt {
         System.out.println("xlqol");
         System.out.println("mithl");
         System.out.println("serww");
-        System.out.println("nsdwb");
     }
 }
