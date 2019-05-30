@@ -1,5 +1,5 @@
-public class Cmgxxh {
+public class Clqaur {
     public static void main() {
-        System.out.println("lrmnv");
+        System.out.println("mxgos");
     }
 }
