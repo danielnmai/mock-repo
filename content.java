@@ -38,6 +38,5 @@ public class Cipmyt {
         System.out.println("ilwgd");
         System.out.println("plnre");
         System.out.println("pbnsc");
-        System.out.println("jsedi");
     }
 }
