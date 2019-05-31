@@ -17,6 +17,5 @@ public class Cipmyt {
         System.out.println("curjf");
         System.out.println("eruwx");
         System.out.println("sjtag");
-        System.out.println("ksmqb");
     }
 }
