@@ -52,6 +52,5 @@ public class Cipmyt {
         System.out.println("vemwt");
         System.out.println("xvatt");
         System.out.println("cgulc");
-        System.out.println("ndegl");
     }
 }
