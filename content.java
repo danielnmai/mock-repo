@@ -27,6 +27,5 @@ public class Cipmyt {
         System.out.println("udyju");
         System.out.println("dmjrb");
         System.out.println("easil");
-        System.out.println("idfpc");
     }
 }
