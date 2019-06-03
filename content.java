@@ -1,5 +1,5 @@
-public class Crfwvu {
+public class Cchtcs {
     public static void main() {
-        System.out.println("hcrfe");
+        System.out.println("rsvdi");
     }
 }
