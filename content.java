@@ -1,5 +1,5 @@
-public class Cusamb {
+public class Cdcymo {
     public static void main() {
-        System.out.println("biwbq");
+        System.out.println("waabb");
     }
 }
