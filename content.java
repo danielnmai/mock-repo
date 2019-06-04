@@ -1,5 +1,5 @@
-public class Ciagfq {
+public class Cdcxuy {
     public static void main() {
-        System.out.println("ndoeb");
+        System.out.println("mlamg");
     }
 }
