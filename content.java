@@ -1,5 +1,5 @@
-public class Cypfva {
+public class Csewtt {
     public static void main() {
-        System.out.println("djtus");
+        System.out.println("amlsj");
     }
 }
