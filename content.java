@@ -1,5 +1,5 @@
-public class Csewtt {
+public class Cgdkmw {
     public static void main() {
-        System.out.println("amlsj");
+        System.out.println("qgexk");
     }
 }
