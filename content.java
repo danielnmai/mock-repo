@@ -1,5 +1,5 @@
-public class Crovmb {
+public class Cfpnbi {
     public static void main() {
-        System.out.println("nydmy");
+        System.out.println("otxdf");
     }
 }
