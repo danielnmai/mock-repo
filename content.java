@@ -1,5 +1,5 @@
-public class Cfpnbi {
+public class Cxhcin {
     public static void main() {
-        System.out.println("otxdf");
+        System.out.println("hsftn");
     }
 }
