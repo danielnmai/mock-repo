@@ -1,5 +1,5 @@
-public class Clrxgw {
+public class Crovmb {
     public static void main() {
-        System.out.println("rwbfn");
+        System.out.println("nydmy");
     }
 }
