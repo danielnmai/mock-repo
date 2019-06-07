@@ -1,5 +1,5 @@
-public class Cgsfki {
+public class Cqmxpx {
     public static void main() {
-        System.out.println("amptt");
+        System.out.println("lnjpv");
     }
 }
