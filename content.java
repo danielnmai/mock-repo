@@ -1,5 +1,5 @@
-public class Cplpbk {
+public class Cgsfki {
     public static void main() {
-        System.out.println("vmlkf");
+        System.out.println("amptt");
     }
 }
