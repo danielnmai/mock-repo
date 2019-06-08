@@ -1,5 +1,5 @@
-public class Cufmai {
+public class Cpwrsq {
     public static void main() {
-        System.out.println("wdogq");
+        System.out.println("fkiwt");
     }
 }
