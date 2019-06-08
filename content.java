@@ -1,5 +1,5 @@
-public class Clpfvu {
+public class Cpjdky {
     public static void main() {
-        System.out.println("ipkmp");
+        System.out.println("sbcjt");
     }
 }
