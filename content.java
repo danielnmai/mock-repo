@@ -1,5 +1,5 @@
-public class Chqtuw {
+public class Coxnat {
     public static void main() {
-        System.out.println("frkwg");
+        System.out.println("mdpdi");
     }
 }
