@@ -1,5 +1,5 @@
-public class Cjpwso {
+public class Cadmxe {
     public static void main() {
-        System.out.println("oavsm");
+        System.out.println("hjodi");
     }
 }
