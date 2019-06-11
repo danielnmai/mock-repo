@@ -1,5 +1,5 @@
-public class Cxqkle {
+public class Cobior {
     public static void main() {
-        System.out.println("nahfm");
+        System.out.println("ivioj");
     }
 }
