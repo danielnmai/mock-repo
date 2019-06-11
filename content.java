@@ -1,5 +1,5 @@
-public class Cliejt {
+public class Ckcylp {
     public static void main() {
-        System.out.println("hvcgf");
+        System.out.println("ucsaf");
     }
 }
