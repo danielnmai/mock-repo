@@ -1,5 +1,5 @@
-public class Ccsfbd {
+public class Csrnbi {
     public static void main() {
-        System.out.println("wgbus");
+        System.out.println("qpmcm");
     }
 }
