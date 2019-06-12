@@ -1,5 +1,5 @@
-public class Ckjtwv {
+public class Cexreg {
     public static void main() {
-        System.out.println("pfmes");
+        System.out.println("iyffs");
     }
 }
