@@ -1,5 +1,5 @@
-public class Cobior {
+public class Ckgcdy {
     public static void main() {
-        System.out.println("ivioj");
+        System.out.println("hamwy");
     }
 }
