@@ -1,5 +1,5 @@
-public class Csrnbi {
+public class Ckjtwv {
     public static void main() {
-        System.out.println("qpmcm");
+        System.out.println("pfmes");
     }
 }
