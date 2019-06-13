@@ -1,5 +1,5 @@
-public class Cexreg {
+public class Cobecj {
     public static void main() {
-        System.out.println("iyffs");
+        System.out.println("qhcwt");
     }
 }
