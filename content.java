@@ -1,5 +1,5 @@
-public class Cxknqo {
+public class Ccmebl {
     public static void main() {
-        System.out.println("xiahr");
+        System.out.println("npiom");
     }
 }
