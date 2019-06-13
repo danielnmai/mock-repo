@@ -1,5 +1,5 @@
-public class Cvdarl {
+public class Cxknqo {
     public static void main() {
-        System.out.println("kdixd");
+        System.out.println("xiahr");
     }
 }
