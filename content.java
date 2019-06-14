@@ -1,5 +1,5 @@
-public class Cldhlp {
+public class Cdnqpp {
     public static void main() {
-        System.out.println("brdsq");
+        System.out.println("qfnpe");
     }
 }
