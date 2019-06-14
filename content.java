@@ -1,5 +1,5 @@
-public class Cskgvl {
+public class Ckgtmw {
     public static void main() {
-        System.out.println("mdfls");
+        System.out.println("uguux");
     }
 }
