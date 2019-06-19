@@ -46,6 +46,5 @@ public class Cipmyt {
         System.out.println("ururm");
         System.out.println("dmnmv");
         System.out.println("ivncq");
-        System.out.println("gdvim");
     }
 }
