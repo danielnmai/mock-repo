@@ -1,5 +1,5 @@
-public class Cxussm {
+public class Cqhido {
     public static void main() {
-        System.out.println("raklo");
+        System.out.println("ogrwr");
     }
 }
