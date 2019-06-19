@@ -31,6 +31,5 @@ public class Cipmyt {
         System.out.println("nbfbu");
         System.out.println("otoor");
         System.out.println("acrvw");
-        System.out.println("oxsup");
     }
 }
