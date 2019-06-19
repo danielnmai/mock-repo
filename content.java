@@ -1,5 +1,5 @@
-public class Csdotq {
+public class Cueeds {
     public static void main() {
-        System.out.println("qjrmy");
+        System.out.println("ikdlm");
     }
 }
