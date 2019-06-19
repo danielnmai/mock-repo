@@ -1,5 +1,5 @@
-public class Caftnt {
+public class Cewcil {
     public static void main() {
-        System.out.println("wqybl");
+        System.out.println("vhtot");
     }
 }
