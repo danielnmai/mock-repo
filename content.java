@@ -1,5 +1,5 @@
-public class Cgtqkw {
+public class Csdotq {
     public static void main() {
-        System.out.println("qculg");
+        System.out.println("qjrmy");
     }
 }
