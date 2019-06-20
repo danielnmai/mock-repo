@@ -1,5 +1,5 @@
-public class Cqhido {
+public class Cmfitp {
     public static void main() {
-        System.out.println("ogrwr");
+        System.out.println("fcmwr");
     }
 }
