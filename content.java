@@ -1,5 +1,5 @@
-public class Ctsuwc {
+public class Cdhlwy {
     public static void main() {
-        System.out.println("layun");
+        System.out.println("deipm");
     }
 }
