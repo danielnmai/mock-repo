@@ -1,5 +1,5 @@
-public class Cpfqjy {
+public class Ctsuwc {
     public static void main() {
-        System.out.println("hkpqn");
+        System.out.println("layun");
     }
 }
