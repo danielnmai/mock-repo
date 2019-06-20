@@ -1,6 +1,6 @@
 public class Ctsuwc {
     public static void main() {
         System.out.println("layun");
-        System.out.println("tlccx");
+        System.out.println("gngpv");
     }
 }
