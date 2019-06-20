@@ -1,5 +1,5 @@
-public class Crknam {
+public class Cstcwr {
     public static void main() {
-        System.out.println("vsmur");
+        System.out.println("enqad");
     }
 }
