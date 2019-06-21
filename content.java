@@ -1,5 +1,5 @@
-public class Cuwhbg {
+public class Cobskc {
     public static void main() {
-        System.out.println("iuvmq");
+        System.out.println("niqcl");
     }
 }
