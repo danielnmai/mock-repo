@@ -1,5 +1,5 @@
-public class Clbsxg {
+public class Cgirvb {
     public static void main() {
-        System.out.println("wpkkw");
+        System.out.println("uupwf");
     }
 }
