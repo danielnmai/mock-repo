@@ -1,5 +1,5 @@
-public class Coechy {
+public class Cyqlno {
     public static void main() {
-        System.out.println("qiyyp");
+        System.out.println("meqqw");
     }
 }
