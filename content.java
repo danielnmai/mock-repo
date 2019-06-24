@@ -1,6 +1,6 @@
 public class Cobskc {
     public static void main() {
         System.out.println("niqcl");
-        System.out.println("sysqm");
+        System.out.println("nyadb");
     }
 }
