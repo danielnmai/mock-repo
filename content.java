@@ -9,6 +9,7 @@ public class Cipmyt {
         System.out.println("mvglj");
         System.out.println("tggcx");
         System.out.println("ebkta");
-        System.out.println("thtsc");
+        System.out.println("ndbrl");
+        System.out.println("sxfnl");
     }
 }
