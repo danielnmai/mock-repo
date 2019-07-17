@@ -3,6 +3,5 @@ public class Cobskc {
         System.out.println("niqcl");
         System.out.println("dbogp");
         System.out.println("sttsf");
-        System.out.println("dytdo");
     }
 }
