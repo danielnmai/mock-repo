@@ -1,5 +1,5 @@
-public class Cobskc {
+public class Cklksu {
     public static void main() {
-        System.out.println("niqcl");
+        System.out.println("dsrac");
     }
 }
