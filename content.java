@@ -1,5 +1,5 @@
-public class Cevbce {
+public class Cviynd {
     public static void main() {
-        System.out.println("lejmv");
+        System.out.println("nduxo");
     }
 }
