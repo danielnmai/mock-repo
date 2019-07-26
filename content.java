@@ -1,5 +1,5 @@
-public class Cyqlno {
+public class Cevbce {
     public static void main() {
-        System.out.println("meqqw");
+        System.out.println("lejmv");
     }
 }
