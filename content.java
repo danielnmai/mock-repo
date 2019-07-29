@@ -1,5 +1,5 @@
-public class Cviynd {
+public class Cftfyx {
     public static void main() {
-        System.out.println("nduxo");
+        System.out.println("eormb");
     }
 }
