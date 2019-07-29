@@ -29,6 +29,5 @@ public class Cipmyt {
         System.out.println("mqpes");
         System.out.println("ysnig");
         System.out.println("exrdl");
-        System.out.println("pvumi");
     }
 }
