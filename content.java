@@ -1,5 +1,5 @@
-public class Cfjrem {
+public class Cuqtmi {
     public static void main() {
-        System.out.println("lcfyl");
+        System.out.println("rdgpi");
     }
 }
