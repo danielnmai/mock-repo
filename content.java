@@ -1,5 +1,5 @@
-public class Cesgna {
+public class Cvtwju {
     public static void main() {
-        System.out.println("vtkuv");
+        System.out.println("nihva");
     }
 }
