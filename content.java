@@ -1,5 +1,5 @@
-public class Cuqtmi {
+public class Copruk {
     public static void main() {
-        System.out.println("rdgpi");
+        System.out.println("pvcgy");
     }
 }
