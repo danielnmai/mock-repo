@@ -1,5 +1,5 @@
-public class Crxneg {
+public class Cgirsq {
     public static void main() {
-        System.out.println("cfwhf");
+        System.out.println("uuyra");
     }
 }
