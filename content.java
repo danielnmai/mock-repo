@@ -1,5 +1,5 @@
-public class Cftfyx {
+public class Cxdkko {
     public static void main() {
-        System.out.println("eormb");
+        System.out.println("nwgkr");
     }
 }
