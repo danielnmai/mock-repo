@@ -1,5 +1,5 @@
-public class Cvegpl {
+public class Chwfrk {
     public static void main() {
-        System.out.println("kthxr");
+        System.out.println("pgtjc");
     }
 }
