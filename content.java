@@ -1,5 +1,5 @@
-public class Cxyply {
+public class Cvegpl {
     public static void main() {
-        System.out.println("ysnga");
+        System.out.println("kthxr");
     }
 }
