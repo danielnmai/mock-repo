@@ -1,5 +1,5 @@
-public class Cnqfdf {
+public class Cxyply {
     public static void main() {
-        System.out.println("tioaq");
+        System.out.println("ysnga");
     }
 }
