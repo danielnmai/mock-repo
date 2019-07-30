@@ -1,5 +1,5 @@
-public class Ckltbj {
+public class Crxneg {
     public static void main() {
-        System.out.println("jgqvw");
+        System.out.println("cfwhf");
     }
 }
