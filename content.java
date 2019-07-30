@@ -1,5 +1,5 @@
-public class Csebxe {
+public class Cnqfdf {
     public static void main() {
-        System.out.println("yqvot");
+        System.out.println("tioaq");
     }
 }
