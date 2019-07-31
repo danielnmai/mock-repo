@@ -1,5 +1,5 @@
-public class Cmkdro {
+public class Csiqpg {
     public static void main() {
-        System.out.println("hmkqa");
+        System.out.println("exoae");
     }
 }
