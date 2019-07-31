@@ -1,5 +1,5 @@
-public class Cmwjlk {
+public class Cxnmoq {
     public static void main() {
-        System.out.println("xldiw");
+        System.out.println("aprtf");
     }
 }
