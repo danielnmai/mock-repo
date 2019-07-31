@@ -1,5 +1,5 @@
-public class Cktije {
+public class Cmwjlk {
     public static void main() {
-        System.out.println("wnhtd");
+        System.out.println("xldiw");
     }
 }
