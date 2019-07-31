@@ -1,5 +1,5 @@
-public class Cvsqpn {
+public class Cmkdro {
     public static void main() {
-        System.out.println("aiuan");
+        System.out.println("hmkqa");
     }
 }
