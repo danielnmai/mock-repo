@@ -1,5 +1,5 @@
-public class Cpfgta {
+public class Cldcta {
     public static void main() {
-        System.out.println("hmuie");
+        System.out.println("hhlst");
     }
 }
