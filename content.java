@@ -1,5 +1,5 @@
-public class Cutpek {
+public class Cpfgta {
     public static void main() {
-        System.out.println("slrtr");
+        System.out.println("hmuie");
     }
 }
