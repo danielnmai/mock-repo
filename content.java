@@ -48,6 +48,5 @@ public class Cipmyt {
         System.out.println("mvtme");
         System.out.println("gspin");
         System.out.println("elmsw");
-        System.out.println("sravt");
     }
 }
