@@ -47,6 +47,5 @@ public class Cipmyt {
         System.out.println("kupgi");
         System.out.println("mvtme");
         System.out.println("ofeub");
-        System.out.println("wynnb");
     }
 }
