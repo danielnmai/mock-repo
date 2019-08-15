@@ -4,7 +4,6 @@ public class Cipmyt {
         System.out.println("wbswu");
         System.out.println("ulycm");
         System.out.println("pnovj");
-        System.out.println("prbjd");
-        System.out.println("jwklc");
+        System.out.println("jpsgd");
     }
 }
