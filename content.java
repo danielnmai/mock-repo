@@ -5,6 +5,5 @@ public class Cktcdw {
         System.out.println("hfewm");
         System.out.println("emlrs");
         System.out.println("tqlxn");
-        System.out.println("wukor");
     }
 }
