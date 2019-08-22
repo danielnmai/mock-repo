@@ -7,6 +7,5 @@ public class Cipmyt {
         System.out.println("oylww");
         System.out.println("pvlyp");
         System.out.println("braft");
-        System.out.println("jpdmy");
     }
 }
