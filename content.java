@@ -72,6 +72,5 @@ public class Cipmyt {
         System.out.println("lgfun");
         System.out.println("lolcf");
         System.out.println("hitoc");
-        System.out.println("yblwb");
     }
 }
