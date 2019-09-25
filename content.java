@@ -16,6 +16,5 @@ public class Cipmyt {
         System.out.println("uglik");
         System.out.println("oagtc");
         System.out.println("rylpi");
-        System.out.println("lmsci");
     }
 }
