@@ -8,6 +8,5 @@ public class Cipmyt {
         System.out.println("rkkhi");
         System.out.println("biidu");
         System.out.println("lqmcf");
-        System.out.println("dhebv");
     }
 }
