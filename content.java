@@ -14,6 +14,5 @@ public class Cipmyt {
         System.out.println("qamkv");
         System.out.println("wrula");
         System.out.println("uglik");
-        System.out.println("ylnsm");
     }
 }
