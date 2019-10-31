@@ -50,6 +50,5 @@ public class Cipmyt {
         System.out.println("ydsdd");
         System.out.println("epgwp");
         System.out.println("chveo");
-        System.out.println("kbmdq");
     }
 }
