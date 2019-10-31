@@ -35,6 +35,5 @@ public class Cipmyt {
         System.out.println("reyaj");
         System.out.println("mnufo");
         System.out.println("rbvqk");
-        System.out.println("bbscy");
     }
 }
