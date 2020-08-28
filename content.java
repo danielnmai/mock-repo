@@ -76,6 +76,5 @@ public class Cipmyt {
         System.out.println("ruscx");
         System.out.println("tlvha");
         System.out.println("rdmsi");
-        System.out.println("mhrwh");
     }
 }
