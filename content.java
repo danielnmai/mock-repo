@@ -60,6 +60,5 @@ public class Cipmyt {
         System.out.println("ptisp");
         System.out.println("bgnbp");
         System.out.println("abnph");
-        System.out.println("mteme");
     }
 }
