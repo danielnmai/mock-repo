@@ -34,6 +34,5 @@ public class Cipmyt {
         System.out.println("kdcck");
         System.out.println("gysih");
         System.out.println("derdj");
-        System.out.println("pehth");
     }
 }
