@@ -63,6 +63,5 @@ public class Cipmyt {
         System.out.println("phpkn");
         System.out.println("fspeo");
         System.out.println("rbjlb");
-        System.out.println("lnbju");
     }
 }
