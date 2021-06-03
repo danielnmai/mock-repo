@@ -62,6 +62,5 @@ public class Cipmyt {
         System.out.println("nteyy");
         System.out.println("kcrea");
         System.out.println("gesey");
-        System.out.println("mggnq");
     }
 }
