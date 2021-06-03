@@ -81,6 +81,5 @@ public class Cipmyt {
         System.out.println("wrtat");
         System.out.println("vutfx");
         System.out.println("omubb");
-        System.out.println("chimb");
     }
 }
